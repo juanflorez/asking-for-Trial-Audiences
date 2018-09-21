@@ -1,7 +1,8 @@
 Hei man,
 I am writing you in English, because this communication may be seeing by some of my associates.
 
-We are working on establishing 3 different certifications, and we are looking for test audiences in the form of organisations that would like to attend the trial version of the trainings FOR FREE. All we need is the logistics (i.e. venue, people, snacks and office supplies.)
+We are working on establishing 3 different certifications, and we are looking for test audiences in the form of organisations that would like to attend the trial version of the trainings FOR FREE. 
+All we need is the logistics (i.e. venue, people, snacks and office supplies.)
 
 The trial version of each of the three independent trainings takes  around 6 hours for maximum 20 people, minimum 10.
 
@@ -10,14 +11,14 @@ Those trainings can be given sequentially or in parallel, depending on the venue
 Now, the trainings and trainers:
 All of us have huge experience in Agile and DevOps, working with different European banks.
 
-Jonathan Matr. BNP, ING —> Lean …
+Jonathan Martiaz. BNP, ING —> Lean …
 Dean: BNP, ING, Vodafone —> Framework for ….
 
 Juan Florez: Nordea, BNP, ING. —>  Certification as DevOps Executive.
 Software development and maintenance presents a unique set of challenges, and as such it requieres a different management approach to account for the high level of uncertanty while benefiting from the high level of flexibility and adaptability. It also evolves at a frightening speed.
 This interactive session targets executives that may need to deal with software production, giving them the basic knowledge about software production, and showing them approaches  how handle software development and adoption into their organisation; while  bringing them up to speed in the latest trends and concepts of DevOps, microservices, cloud computing, 12 factors apps. The course ends with a clear knowledge roadmap for continuos growth inside this field.
 
-Once we pass our requirements with the certification body (Q2 2019), the attended the sessions will have the opportunity to certify themselves at 40% of the cost.
+Once we pass our requirements with the certification body (Q2 2019), the antendees to the sessions will have the opportunity to certify themselves at 40% of the cost.
 
 So, basically the organisation has nothing to lose, and everything to win. 
 
